@@ -10,5 +10,6 @@ describe('index', () => {
 
   it('runs', () => {
     expect(true).toEqual(true)
+    return
   })
 })
